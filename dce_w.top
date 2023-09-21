@@ -1,0 +1,14 @@
+; Include forcefield parameters
+#include "../martini_v3.0.0_dce.itp"
+#include "../martini_v3.0.0_solvents.itp"
+
+
+
+[ system ]
+; Name
+DCE box
+
+[ molecules ]
+; Compound        #mols
+DCE             14950
+W               14996
