@@ -7,5 +7,5 @@ This project is based on CHARMM36m and CHARMM-IFF force fields. GROMACS software
 
 1.2 Now we need to convert the retrieved files to GROMACS format. For that porpose we'll use [Force Field Converter](https://charmm-gui.org/?doc=input/converter.ffconverter). We'll upload .psf and .crd files into the converter and since DCE is an unknown molecule to CHARMM-FF, we need to upload "Additional Topology and Parameter Files" (.str, .prm. and rtf, all at once). Here are the parameters we set on the next step:
 
-<img width="356" alt="image" src="https://github.com/user-attachments/assets/6e925830-bc85-449f-9f0b-bc2e77ece4ac">
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/c8987468-1d8e-4860-a560-608fd3112dab">
 
